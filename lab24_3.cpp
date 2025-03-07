@@ -18,4 +18,5 @@ int main(){
 	cout << " different numbers in data.";
 	
 	return 0;
+	
 }

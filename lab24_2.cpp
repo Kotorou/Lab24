@@ -48,4 +48,5 @@ int main(){
 	printList(line_up);
 		
 	return 0;
+	
 }
